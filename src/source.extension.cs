@@ -10,7 +10,7 @@ namespace T3Theme
     {
         public const string Id = "T3Theme.a13c9cf2-023c-4ca5-b666-3aac5c98c5af";
         public const string Name = "T3 Theme";
-        public const string Description = @"";
+        public const string Description = @"A Visual Studio theme pack inspired by T3 Chat.";
         public const string Language = "en-US";
         public const string Version = "1.0.0";
         public const string Author = "Dante Sparrås";
