@@ -6,7 +6,7 @@ A Visual Studio theme pack inspired by T3 Chat.
 
 ### Prerequisites
 
-- Visual Studio 2022 with VSIX development tools
+- Visual Studio 2022/2026 + VSIX development tools
 - .NET Framework 4.7.2
 
 ### Build Steps
