@@ -75,6 +75,37 @@
             <Color Name="Identifier">
                 <Foreground Type="CT_RAW" Source="FFD2C7E1"/>
             </Color>
+
+            <Color Name="XML Text">
+                <Foreground Type="CT_RAW" Source="FFD2C7E1"/>
+            </Color>
+            <Color Name="XML Keyword">
+                <Foreground Type="CT_RAW" Source="FFf888b5"/>
+            </Color>
+            <Color Name="XML Delimiter">
+                <Foreground Type="CT_RAW" Source="FF7A6483"/>
+            </Color>
+            <Color Name="XML Name">
+                <Foreground Type="CT_RAW" Source="FFf888b5"/>
+            </Color>
+            <Color Name="XML Attribute">
+                <Foreground Type="CT_RAW" Source="FFBAA4ED"/>
+            </Color>
+            <Color Name="XML Processing Instruction">
+                <Foreground Type="CT_RAW" Source="FFD2C7E1"/>
+            </Color>
+            <Color Name="XML Attribute Value">
+                <Foreground Type="CT_RAW" Source="FF96D0BB"/>
+            </Color>
+            <Color Name="XML Attribute Quotes">
+                <Foreground Type="CT_RAW" Source="FF96D0BB"/>
+            </Color>
+            <Color Name="XML Comment">
+                <Foreground Type="CT_RAW" Source="FF7A6483"/>
+            </Color>
+            <Color Name="XML CData Section">
+                <Foreground Type="CT_RAW" Source="FF96D0BB"/>
+            </Color>
         </Category>
         <Category Name="Roslyn Text Editor MEF Items" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
             <Color Name="xml doc comment - delimiter">
