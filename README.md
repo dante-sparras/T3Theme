@@ -34,7 +34,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE.txt](LI
 
 ## Links
 
-- [GitHub Repository](https://github.com/)
+- [GitHub Repository](https://github.com/dante-sparras/T3Theme)
 - [Visual Studio Marketplace](https://marketplace.visualstudio.com/)
 
 ## Inspiration
